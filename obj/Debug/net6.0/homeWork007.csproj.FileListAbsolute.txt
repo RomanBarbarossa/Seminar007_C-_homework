@@ -1,0 +1,15 @@
+/Users/romanbarbarossa/Documents/GeekBrains/seminar_C#_homeWork007/homeWork007/obj/Debug/net6.0/homeWork007.csproj.AssemblyReference.cache
+/Users/romanbarbarossa/Documents/GeekBrains/seminar_C#_homeWork007/homeWork007/obj/Debug/net6.0/homeWork007.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanbarbarossa/Documents/GeekBrains/seminar_C#_homeWork007/homeWork007/obj/Debug/net6.0/homeWork007.AssemblyInfoInputs.cache
+/Users/romanbarbarossa/Documents/GeekBrains/seminar_C#_homeWork007/homeWork007/obj/Debug/net6.0/homeWork007.AssemblyInfo.cs
+/Users/romanbarbarossa/Documents/GeekBrains/seminar_C#_homeWork007/homeWork007/obj/Debug/net6.0/homeWork007.csproj.CoreCompileInputs.cache
+/Users/romanbarbarossa/Documents/GeekBrains/seminar_C#_homeWork007/homeWork007/bin/Debug/net6.0/homeWork007
+/Users/romanbarbarossa/Documents/GeekBrains/seminar_C#_homeWork007/homeWork007/bin/Debug/net6.0/homeWork007.deps.json
+/Users/romanbarbarossa/Documents/GeekBrains/seminar_C#_homeWork007/homeWork007/bin/Debug/net6.0/homeWork007.runtimeconfig.json
+/Users/romanbarbarossa/Documents/GeekBrains/seminar_C#_homeWork007/homeWork007/bin/Debug/net6.0/homeWork007.dll
+/Users/romanbarbarossa/Documents/GeekBrains/seminar_C#_homeWork007/homeWork007/bin/Debug/net6.0/homeWork007.pdb
+/Users/romanbarbarossa/Documents/GeekBrains/seminar_C#_homeWork007/homeWork007/obj/Debug/net6.0/homeWork007.dll
+/Users/romanbarbarossa/Documents/GeekBrains/seminar_C#_homeWork007/homeWork007/obj/Debug/net6.0/refint/homeWork007.dll
+/Users/romanbarbarossa/Documents/GeekBrains/seminar_C#_homeWork007/homeWork007/obj/Debug/net6.0/homeWork007.pdb
+/Users/romanbarbarossa/Documents/GeekBrains/seminar_C#_homeWork007/homeWork007/obj/Debug/net6.0/homeWork007.genruntimeconfig.cache
+/Users/romanbarbarossa/Documents/GeekBrains/seminar_C#_homeWork007/homeWork007/obj/Debug/net6.0/ref/homeWork007.dll
